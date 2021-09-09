@@ -50,7 +50,8 @@ This challenge can be both a take-home or in-person test. We will evaluate the c
 
 ---
 
-*Platform Choice*
+## Platform Choice
+
 You can create the application as either a command line application, web application or mobile application in any of programming language (and framework) of your choice.
 
 Think about the type of work you would like to do at Patchwork and *choose an appropriate application type and platform*.
