@@ -46,7 +46,7 @@ This challenge can be both a take-home or in-person test. We will evaluate the c
 * Is a user able to interact with the application
 * Is the application easy to run
 * Are there tests for the application
-* Does the application fulfil meet the requirements for each task
+* Does the application meet the requirements for each task
 
 ---
 
