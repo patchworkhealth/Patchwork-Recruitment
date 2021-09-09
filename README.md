@@ -1,7 +1,7 @@
 # Patchwork-Rectruitment
 
 # 
-# Just Eat Engineer Recruitment Test
+# Engineer Recruitment Test
 Thank you for participating in our recruitment test. 
 
 Our recruitment test consists of a technical coding test, and a Q&A session.  Please note the the Q&A session will revolve around both the technical assessment and other industry related matters which will relate to the position you apply for. 
